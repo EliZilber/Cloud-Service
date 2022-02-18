@@ -23,7 +23,7 @@ The parameters are the IP address and port number of the server, the name of the
 
 You can also use IDE's like PyCharm of course!
 
-# Extra: Backup of Multiple Computers
+# Extra: Sync Another Device
 This part guides you how to connect existing client from another device.
 <li>Go to the cache folder in service. Get your id - it is the name of the folder containing your files. </li>
 <li> Run the client script in the new computer by typing the following command in terminal: </li>
