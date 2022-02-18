@@ -26,7 +26,7 @@ You can also use IDE's like PyCharm of course!
 # Extra: Backup of Multiple Computers
 This part guides you how to connect existing client from another device.
 <li>Go to the cache folder in service. Get your id - it is the name of the folder containing your files. </li>
-<li> Place the client script in the new computer and run this command in terminal: </li>
+<li> Run the client script in the new computer by typing the following command in terminal: </li>
 
 <code> python3 client.py 1.2.3.4 12345 backup_folder 10  SERIAL_CODE </code>
 
