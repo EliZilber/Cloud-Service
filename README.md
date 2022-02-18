@@ -7,9 +7,7 @@ The service supports both Linux and Windows.
 
 <li>This service lets you create a server from your own, and support multiple customers. At first, the customer defines a folder to sync. The software uploads to the server all the files in the folder for backup and from now on the software monitors any change that takes place in the folder deeply. When such a change is detected, the software updates the server about the change so that the backup on the server will be updated accordingly.</li>
 
-<li>The server can handle several different clients. </li>
- 
- <li>Every client gets a unique ID letting him connect the service from other devices.</li>
+<li>The server can handle several different clients, and every client gets a unique ID letting him connect the service from other devices.</li>
 
 # Compiling and Running
 You must have Python 3.10 or higher installed on your machine. Run the server.py file attached to utils.py by the following command in the terminal:
