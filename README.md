@@ -1,5 +1,5 @@
 # Cloud-Service
-I created this cloud service program as a part of my Computer Netorks course in the second year of my CS study.
+I created this cloud service program as a part of my Computer Networks course in the second year of my CS study.
 This project was coded using a single thread in Python on top of TCP protocol. 
 The service supports both Linux and Windows. 
 
