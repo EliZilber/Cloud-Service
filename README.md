@@ -31,3 +31,8 @@ This part guides you how to connect existing client from another device.
 <code> python3 client.py 1.2.3.4 12345 backup_folder 10  SERIAL_CODE </code>
 
 The parameters are as same as in registration, you only add the SERIAL_CODE at the end.
+Getting the serial code: 
+The serial number printed on the client cli on registration. You can get it from there.
+In case you disconnected your client and forgot the serial code:
+Each user has it's folder saved in the server, with the serial code as folder's name.
+You can also look for the folder in the server.
